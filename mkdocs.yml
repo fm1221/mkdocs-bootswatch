@@ -2,7 +2,7 @@ site_name: MkDocs Bootswatch Themes
 
 
 theme:
-    name: readthedocs
+    name: mkdocs
     
     
 nav:

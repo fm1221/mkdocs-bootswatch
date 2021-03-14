@@ -2,8 +2,7 @@ site_name: MkDocs Bootswatch Themes
 
 
 theme:
-    name: flatly
-    custom_dir: readthedocs
+    name: readthedocs
 
 markdown_extensions:
     - toc:

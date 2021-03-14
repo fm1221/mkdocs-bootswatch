@@ -1,4 +1,6 @@
-site_name: 333
+site_name: MkDocs Bootswatch Themes
+
+
 theme:
     name: mkdocs
 

@@ -7,12 +7,12 @@ theme:
     
 nav:
   - Index: index.md
-  - Page 1: page1.md
+  - Page 1: examples.md
   # 下面代表的是一组页面
   - Page Group:
-    - Sub Page 1: subpage/page1.md
-    - Sub Page 2: subpage/page2.md
-  -About: about.md
+    - Sub Page 1: sub-dir/sub-page.md
+
+
 
 markdown_extensions:
     - toc:

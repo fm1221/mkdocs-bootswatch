@@ -17,6 +17,11 @@ nav:
 markdown_extensions:
     - toc:
         permalink: '#'
+    - admonition
+    - def_list
+    - mdx_gh_links:
+        user: fm1221
+        repo: mkdocs-bootswatch
 
 plugins:
     - search

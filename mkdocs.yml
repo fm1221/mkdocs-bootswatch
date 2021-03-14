@@ -1,6 +1,6 @@
 site_name: 333
 theme:
-    name: flatly
+    name: mkdocs
 
 markdown_extensions:
     - toc:
